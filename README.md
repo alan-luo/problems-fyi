@@ -1,3 +1,6 @@
+---
+---
+
 # Problems.fyi
 
 Problems.fyi is a site to support self-directed learning of advanced mathematics at the university level, inspired by projects like [OSSU](https://github.com/ossu/computer-science) and [OpenCourseWare](https://ocw.mit.edu/).

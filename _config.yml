@@ -1,0 +1,7 @@
+plugins:
+  - jekyll-relative-links
+
+# relative-links plugin config https://github.com/benbalter/jekyll-relative-links
+relative_links:
+  enabled:     true
+  collections: false
